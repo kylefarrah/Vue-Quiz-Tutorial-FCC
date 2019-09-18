@@ -1,5 +1,7 @@
 # quiz
 
+Basic quiz app using Vue. App was made following tutorial from: https://www.youtube.com/watch?v=4deVCNJq3qc
+
 ## Project setup
 ```
 npm install
